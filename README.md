@@ -15,7 +15,7 @@ The Amazon User Reviews dataset includes millions of reviews from 1995 to 2015, 
 * Part-of-Speech (POS) Tagging: Grammatical tags are assigned to each word for better lemmatization.
 * Lemmatization: Words are reduced to their root forms to improve analysis and interpretation.
 * Removing Single Letter and Meaningless Words: Terms with less than three characters and words with characters repeated more than three times are eliminated to improve data quality.
-* Exploratory Data Analysis (EDA)
+## Exploratory Data Analysis (EDA)
 * Distribution of Product Categories: Visual representation of review distribution across product categories.
 * Distribution of Star Ratings: Histogram showing the distribution of different star ratings.
 * Vocabulary Size: Analysis of the total number of words and unique words in the dataset.
